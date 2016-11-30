@@ -1,0 +1,2 @@
+# spjallbord
+Lokaverkefni í vefforritun
