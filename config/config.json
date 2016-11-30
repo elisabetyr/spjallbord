@@ -9,17 +9,17 @@
   },
   "test": {
     "username": "spjallbord",
-    "password": 1234,
+    "password": "1234",
     "database": "spjallbord",
     "host": "127.0.0.1",
     "port": 5432,
     "dialect": "postgres"
   },
   "production": {
-    "username": "spjallbord",
-    "password": 1234,
-    "database": "spjallbord",
-    "host": "127.0.0.1",
+    "username": "oogvrteaiaykzk",
+    "password": "VMgvy1gaB7JuFQ8jeORetfIs-J",
+    "database": "d1hrk380g9knmt",
+    "host": "ec2-54-221-246-85.compute-1.amazonaws.com",
     "port": 5432,
     "dialect": "postgres"
   }
