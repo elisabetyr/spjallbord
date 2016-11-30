@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "spjallbord",
+    "password": "1234",
+    "database": "spjallbord",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "spjallbord",
+    "password": 1234,
+    "database": "spjallbord",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "spjallbord",
+    "password": 1234,
+    "database": "spjallbord",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
